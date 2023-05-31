@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.exe
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.deps.json
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.json
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\refint\OgrenciYonetimUygulamasi.dll
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\Asus\Desktop\EgitmenDers\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\ref\OgrenciYonetimUygulamasi.dll
